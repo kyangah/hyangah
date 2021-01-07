@@ -952,8 +952,8 @@ article:hover {
         background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/popup_image6.png) ;
         left: 0;
     }
-    #prev_bt { top: 66%; left: 15%; }
-    #next_bt { top: 66%; right: 15%; }
+    #prev_bt { top: 67%; left: 15%; }
+    #next_bt { top: 67%; right: 15%; }
     .about_slide_text { width: 350px; top: calc(50% - 245px); left: calc(50% - 175px); }
     .about_slide_text h1 { font-size: 2.5rem; line-height: 1.2; }
     .about_slide_text h3 { font-size: 1.25rem; line-height: 1.6; }
